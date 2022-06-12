@@ -1,6 +1,6 @@
 let userName = "Ubaid";
 const userQuestion = "Will this summer be the greatest and most impactful summer ever on my life?"
-let randomNumber = Math.floor(Math.random() *8);
+let randomNumber = Math.floor(Math.random() * 8);
 let eightBall = "";
 
 userName === "Ubaid" ? console.log(`Hello, ${userName}`) : console.log('Hello!');
